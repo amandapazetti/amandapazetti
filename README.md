@@ -4,7 +4,7 @@
 <div align="center">
 
   
- Eu sou uma desenvolvedora Full stack com foco em back-end 
+Desenvolvedora Full stack com foco em back-end 
 
 
 💬 Sou entusiasta no desenvolvimento Java para APIs com Spring boot
