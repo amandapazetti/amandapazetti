@@ -7,7 +7,7 @@
 Desenvolvedora Full stack com foco em back-end 
 
 
-💬 Sou entusiasta no desenvolvimento Java para APIs com Spring boot
+💬 Tenho um grande interesse no desenvolvimento de APIs em Java, e tenho me dedicado especialmente ao uso do Spring Boot
 
 
 😄 Pronomes: Ela/Dela
