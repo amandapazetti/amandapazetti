@@ -4,7 +4,7 @@
 <div align="center">
 
   
-Desenvolvedora Full stack com foco em back-end 
+Atualmente, trabalho como Desenvolvedora Full Stack com foco em back-end no Grupo FCamara
 
 
 💬 Tenho um grande interesse no desenvolvimento de APIs em Java, e tenho me dedicado especialmente ao uso do Spring Boot
