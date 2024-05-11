@@ -42,7 +42,6 @@ Front-end: Javascript/Typescript
 
 #### Soft Skills:
  Comunicação clara,
- Boa comunicação,
  Aprendizado rápido,
  Trabalho em equipe,
  Adaptabilidade
