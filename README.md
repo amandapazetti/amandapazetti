@@ -18,39 +18,41 @@ Atualmente, trabalho como Desenvolvedora Full Stack com foco em back-end no Grup
 
 ### Linguagens:
 Back-end: Java 8+  
-Front-end: Javascript/Typescript
+Front-end: Javascript/Typescript.
 
 #### Frameworks:
  Back-end: Spring Framework (Spring Boot, Spring Security, Spring Data JPA, Spring Data MongoDB, Spring Data POstgres, Spring Web, Spring Cloud)
- Front-end: Angular
+ Front-end: Angular.
 
 #### Infraestrutura:
 **CI/CD:** Utilização de Github Actions para automação de integração contínua e entrega contínua.
-- **Containers:** Experiência em Docker para empacotamento de aplicações e Kubernetes para orquestração e gerenciamento de contêineres.
-- **DNS e Cache:** Familiaridade com a configuração de DNS e implementação de caches para otimização de desempenho.
+
+**Containers:** Experiência em Docker para empacotamento de aplicações e Kubernetes para orquestração e gerenciamento de contêineres.
+
+**DNS e Cache:** Familiaridade com a configuração de DNS e implementação de caches para otimização de desempenho.
 
   #### Cloud (AWS Services):
-- **Conhecimento em configuração e utilização de serviços em nuvem da AWS para hospedar, escalar e gerenciar aplicações:**
-   AWS Lambda
-   API Gateway
-   DynamoDB
-   Cognito
-   S3
-   CloudFront
-   Route53
-   S2
-   RDS
+ **Conhecimento em configuração e utilização de serviços em nuvem da AWS para hospedar, escalar e gerenciar aplicações:**
+   AWS Lambda,
+   API Gateway,
+   DynamoDB,
+   Cognito,
+   S3,
+   CloudFront,
+   Route53,
+   S2,
+   RDS.
 
 
 #### Testes:
  JUnit/AssertJ, 
  Mockito e 
- MockMvc
+ MockMvc.
 
 #### Desenvolvimento:
  SOLID,
  Clean Code e
- Clean Architecture
+ Clean Architecture.
 
 #### Soft Skills:
  Comunicação clara,
