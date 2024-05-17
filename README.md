@@ -24,11 +24,23 @@ Front-end: Javascript/Typescript
  Back-end: Spring Framework (Spring Boot, Spring Security, Spring Data JPA, Spring Data MongoDB, Spring Data POstgres, Spring Web, Spring Cloud)
  Front-end: Angular
 
-#### Infra/Cloud:
- CI/CD: Github Actions, 
- Cloud: AWS, 
- Docker e 
- Kubernetes
+#### Infraestrutura:
+**CI/CD:** Utilização de Github Actions para automação de integração contínua e entrega contínua.
+- **Containers:** Experiência em Docker para empacotamento de aplicações e Kubernetes para orquestração e gerenciamento de contêineres.
+- **DNS e Cache:** Familiaridade com a configuração de DNS e implementação de caches para otimização de desempenho.
+
+  #### Cloud (AWS Services):
+- **Conhecimento em configuração e utilização de serviços em nuvem da AWS para hospedar, escalar e gerenciar aplicações:**
+  - AWS Lambda
+  - API Gateway
+  - DynamoDB
+  - Cognito
+  - S3
+  - CloudFront
+  - Route53
+  - S2
+  - RDS
+
 
 #### Testes:
  JUnit/AssertJ, 
