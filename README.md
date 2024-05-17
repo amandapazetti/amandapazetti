@@ -31,15 +31,15 @@ Front-end: Javascript/Typescript
 
   #### Cloud (AWS Services):
 - **Conhecimento em configuração e utilização de serviços em nuvem da AWS para hospedar, escalar e gerenciar aplicações:**
-  - AWS Lambda
-  - API Gateway
-  - DynamoDB
-  - Cognito
-  - S3
-  - CloudFront
-  - Route53
-  - S2
-  - RDS
+   AWS Lambda
+   API Gateway
+   DynamoDB
+   Cognito
+   S3
+   CloudFront
+   Route53
+   S2
+   RDS
 
 
 #### Testes:
